@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // Prueba de php con github
-        
+        echo "<h1>HOLA A TODOS PROBANDO GIT</h1>";
         phpinfo();
         
         ?>
