@@ -13,6 +13,10 @@ and open the template in the editor.
         <?php
         // Prueba de php con github
         echo "<h1>HOLA A TODOS PROBANDO GIT</h1>";
+        echo "<h2>PROBANDO NETBEAN CON GIT</h2>";
+        echo "<h3>PRIMER EJEMPLOT</h3>";
+
+
         phpinfo();
         
         ?>
